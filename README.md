@@ -12,4 +12,5 @@ I may close requests I don't intend to fulfill.
 **Product request**: I would love a p2p version of github issues on top of
 [ipfs](http://ipfs.io).
 
-## [TODOs](http://github.com/jbenet/todo/issues)
+## - [File a new TODO](http://github.com/jbenet/todo/issues/new)
+## - [List of TODOs](http://github.com/jbenet/todo/issues)
