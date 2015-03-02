@@ -9,8 +9,11 @@ to file an issue here, and i'll get to it as soon as I can.
 
 I may close requests I don't intend to fulfill.
 
+Please continue to use my email for communications and all private requests.
+
 **Product request**: I would love a p2p version of github issues on top of
 [ipfs](http://ipfs.io).
+
 
 ## - [File a new TODO](http://github.com/jbenet/todo/issues/new)
 ## - [List of TODOs](http://github.com/jbenet/todo/issues)
